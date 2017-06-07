@@ -1,0 +1,16 @@
+body{
+	font-family: calibri;
+	color: #FFF;
+	background-image: url("background.png");
+	background-size: cover;
+}
+h1{
+	margin: 0% 40%;
+	
+	position: absolute;
+	background-color: #ff9933;
+	font-size: 50px;
+}
+.input_text{
+	background-color: #000;
+}
